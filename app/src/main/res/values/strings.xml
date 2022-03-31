@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="number_hint">Enter Value</string>
+    <string name="default_value">0.00</string>
+    <string name="inch">Inch</string>
+    <string name="foot">Foot</string>
+    <string name="centimetre">Centimetre</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="gram">Gram</string>
+    <string name="ounce">Ounce(Oz)</string>
+    <string name="pound">Pound(lb)</string>
+    <string-array name="units">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
